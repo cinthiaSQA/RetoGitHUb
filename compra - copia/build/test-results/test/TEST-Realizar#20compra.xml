@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar compra" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-13T01:28:21" hostname="SQAMED-PCC87088" time="23.47">
+  <properties/>
+  <testcase name="realizar compra producto" classname="Realizar compra" time="23.47"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ene 12, 2024 8:28:22 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 120.0.6099.109 (3419140ab665596f21b385ce136419fde0924272-refs/branch-heads/6099@{#1483}) on port 41342
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 12, 2024 8:28:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
